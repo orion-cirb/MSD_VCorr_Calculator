@@ -18,7 +18,7 @@ for i=1:size
     fichier = strcat(folder,filename);
     fichier= string(fichier);
     
-    % used to specify the path the file must have a prefix 'DUP'
+    % used to specify the path the file must have the prefix 'DUP'
     fichier = insertBefore(fichier,'DUP','\');
     [pathstr,suj,ext] = fileparts(fichier);
 

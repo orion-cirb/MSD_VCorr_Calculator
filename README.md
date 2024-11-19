@@ -7,13 +7,13 @@
 * **Software:** Matlab
 
 
-## Images description
+## Input description
 
-**MSD_VCorr_Calculator.m:** excel files of Trackmate output 
+**MSD_VCorr_Calculator.m:** excel files given by Trackmate output 
 
 ## Program description
 
-* transforms an excel table into a csv table
+* transform an excel table into a csv table
 * Uses “MSD analyser” add-on written by Jean-Yves TINEVEZ (BioImage Analyst and Core Facility manager @ Institut Pasteur, Paris)
 * Calculates the MSD and VCorr of each particle 
 * produces 5 files per input table
@@ -22,7 +22,7 @@
 
 ## Dependencies
 
-**Matlab2024_b** *MSD analyser*
+**Matlab2024_b**: *MSD analyser*
 
 ## Version history
 
